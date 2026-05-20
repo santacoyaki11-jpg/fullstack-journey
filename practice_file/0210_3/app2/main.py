@@ -29,3 +29,4 @@ def startConsumer():
 @app.get('/')
 def get():
     return{"status":True}
+
